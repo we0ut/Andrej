@@ -1,0 +1,33 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 215px;
+}
+
+.site-header .nav-link {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 27px;
+  color: #717172;
+}
+
+.header-buttons .btn-signup {
+  padding: 12px 32px;
+}
+
+.site-header .header-links ul {
+  display: flex;
+  align-items: flex-start;
+  justify-items: center;
+  gap: 70px;
+  padding: 0px;
+}
+
+/* .site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 214px;
+  flex-direction: column;
+} */
